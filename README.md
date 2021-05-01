@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SQuirrel-V
+- 👀 I’m interested in proggraming and graphic design
+- 🌱 I’m currently learning Unity and C#
+- 📫 How to reach me? Write to me an e-mail: jofher2000@gmail.com
